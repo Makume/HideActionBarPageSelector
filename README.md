@@ -7,4 +7,4 @@
 > 
 > | Version  | Description |
 > | ------------- | ------------- |
-> | 1.0.0  | Hide the actionbar page selector <br>Before:<br>![with](https://github.com/Makume/HideActionBarPageSelector/blob/c8d97e69fd57789e12cc1f0e82fb426aa7405164/Images/with.png)<br>After:<br>![without](https://github.com/Makume/HideActionBarPageSelector/blob/c8d97e69fd57789e12cc1f0e82fb426aa7405164/Images/without.png) |
+> | 1.0.0  | Hide the actionbar page selector <br>Before:<br>![with](https://github.com/Makume/HideActionBarPageSelector/blob/main/Images/with.png)<br>After:<br>![without](https://github.com/Makume/HideActionBarPageSelector/blob/main/Images/without.png) |
